@@ -4,12 +4,12 @@
 This repository contains a dynamic Todo List application built with HTML, CSS, and JavaScript. It demonstrates practical usage of DOM manipulation, local storage, and includes a countdown timer with audio notifications.
 
  ## Features  
- # Add New Tasks  : Users can add new tasks with a reminder time.
- # Task Completion  : Mark tasks as complete with a checkbox.
- # Task Deletion  : Remove tasks from the list.
- # Countdown Timer  : Tasks can have a countdown timer that alerts the user when the time is up.
- # Audio Notifications  : Play a tune and show a notification when the countdown reaches zero.
- # Responsive Design  : Adapted for various screen sizes with a stylish, modern interface.
+ Add New Tasks  : Users can add new tasks with a reminder time.
+ Task Completion  : Mark tasks as complete with a checkbox.
+ Task Deletion  : Remove tasks from the list.
+ Countdown Timer  : Tasks can have a countdown timer that alerts the user when the time is up.
+ Audio Notifications  : Play a tune and show a notification when the countdown reaches zero.
+ Responsive Design  : Adapted for various screen sizes with a stylish, modern interface.
 
   ##Getting Started  
   ##Prerequisites  
@@ -20,13 +20,13 @@ Basic knowledge of HTML, CSS, and JavaScript.
   ##Clone the Repository  
 git clone https://github.com/CodeWithVedang/TodoList_Using_HTML_CSS_JS.git
 
-  #Navigate to the Project Directory
+  Navigate to the Project Directory
   
 cd TodoList_Using_HTML_CSS_JS
 
 ##0pen the index.html File
 
-#Open index.html in your preferred web browser. For a more seamless experience, use a development environment with live server capabilities, like Visual Studio Code with the Live Server extension.
+Open index.html in your preferred web browser. For a more seamless experience, use a development environment with live server capabilities, like Visual Studio Code with the Live Server extension.
 
  ## Usage  
 ##Adding Tasks:
