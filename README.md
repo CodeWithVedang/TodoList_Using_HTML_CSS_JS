@@ -1,63 +1,63 @@
-**Todo List Using HTML, CSS, and JavaScript
-**
-**Overview**
+ ## Todo List Using HTML, CSS, and JavaScript
+  
+ ## Overview  
 This repository contains a dynamic Todo List application built with HTML, CSS, and JavaScript. It demonstrates practical usage of DOM manipulation, local storage, and includes a countdown timer with audio notifications.
 
-**Features**
-**Add New Tasks**: Users can add new tasks with a reminder time.
-**Task Completion**: Mark tasks as complete with a checkbox.
-**Task Deletion**: Remove tasks from the list.
-**Countdown Timer**: Tasks can have a countdown timer that alerts the user when the time is up.
-**Audio Notifications**: Play a tune and show a notification when the countdown reaches zero.
-**Responsive Design**: Adapted for various screen sizes with a stylish, modern interface.
+ ## Features  
+ # Add New Tasks  : Users can add new tasks with a reminder time.
+ # Task Completion  : Mark tasks as complete with a checkbox.
+ # Task Deletion  : Remove tasks from the list.
+ # Countdown Timer  : Tasks can have a countdown timer that alerts the user when the time is up.
+ # Audio Notifications  : Play a tune and show a notification when the countdown reaches zero.
+ # Responsive Design  : Adapted for various screen sizes with a stylish, modern interface.
 
-**Getting Started**
-**Prerequisites**
+  ##Getting Started  
+  ##Prerequisites  
 A modern web browser (e.g., Chrome, Firefox, Safari).
 Basic knowledge of HTML, CSS, and JavaScript.
 
-**Installation**
-**Clone the Repository**
-_git clone https://github.com/CodeWithVedang/TodoList_Using_HTML_CSS_JS.git
-_
-**Navigate to the Project Directory
-**
-_cd TodoList_Using_HTML_CSS_JS
-_O
-pen the index.html File
+ ##Installation  
+  ##Clone the Repository  
+git clone https://github.com/CodeWithVedang/TodoList_Using_HTML_CSS_JS.git
 
-Open index.html in your preferred web browser. For a more seamless experience, use a development environment with live server capabilities, like Visual Studio Code with the Live Server extension.
+  #Navigate to the Project Directory
+  
+cd TodoList_Using_HTML_CSS_JS
 
-**Usage**
-Adding Tasks:
+##0pen the index.html File
+
+#Open index.html in your preferred web browser. For a more seamless experience, use a development environment with live server capabilities, like Visual Studio Code with the Live Server extension.
+
+ ## Usage  
+##Adding Tasks:
 1. Enter a task description in the input field.
 2. Set a reminder date and time using the datetime-local input.
 3. Click "Add Task" to add the task to the list.
 
-Marking Tasks as Complete:
+##Marking Tasks as Complete:
 Click the "Done" button next to a task to toggle its completion status.
 
-Removing Tasks:
+##Removing Tasks:
 Click the "Delete" button next to a task to remove it from the list.
 
-Countdown Timer:
+##Countdown Timer:
 When a task is added with a reminder, a countdown timer will start.
 The timer updates every second and shows hours, minutes, and seconds until the reminder time.
 Once the timer reaches zero, a notification is shown, and an audio alert is played.
-Code Structure
-**index.html**: Provides the basic structure and layout of the application.
-**style.css**: Contains styles for the application, including animations and responsive design.
-**script.js**: Handles user interactions, task management, countdown timers, and notifications.
+##Code Structure
+  index.html  : Provides the basic structure and layout of the application.
+  style.css  : Contains styles for the application, including animations and responsive design.
+  script.js  : Handles user interactions, task management, countdown timers, and notifications.
 
-Key Elements
-**HTML**:
+##Key Elements
+  HTML  :
 A form for inputting tasks and setting reminders.
 A list to display tasks.
-**CSS**:
+  CSS  :
 Gradient background with animated moving objects for a dynamic effect.
 Styling for the container, buttons, and task items.
 Transitions and hover effects for interactive elements.
-**JavaScript**:
+  JavaScript  :
 Event listeners for adding, completing, and deleting tasks.
 Countdown timer logic with periodic updates.
 Audio notifications and browser notifications for reminders.
